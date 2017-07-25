@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ibrar\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\abc\ShahsDine\app\build\intermediates\pre-dexed\debug\library-2.4.0_bd4493d6f186f4da33f957a859dbe9bd869cb0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ibrar\.android\build-cache\46a12b47e5f4e5ec8e4b99527a89138caf097925\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="F:\abc\ShahsDine\app\build\intermediates\pre-dexed\debug\classes_cfa6c605ad0471e7bce16eda79cdbc852eaad17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ibrar\.android\build-cache\b119d3fd25c14f7328d2963d3743520f554c7a20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="F:\abc\ShahsDine\app\build\intermediates\pre-dexed\debug\classes_484145c736f0f389bec8eae6685c3b46c7b375cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ibrar\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="F:\abc\ShahsDine\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_2ab09d7f105e92c46bcafccf64c83dd24af37aa4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shah\'s Dine</string>
+    <string name="max_guest">Max Guest</string>
+    <string name="description">description</string>
+    <string name="booked_guest">Booked Guest</string>
+    <string name="food_starter">Food Starter</string>
+    <string name="food_main">Food Main</string>
+    <string name="food_desered">Food Desered</string>
+    <string name="food_special">Food Special</string>
+</resources>
